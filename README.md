@@ -57,7 +57,7 @@ Plus a raw JSON cache so you can regenerate the Excel without re-paying the Apif
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-GITHUB-USERNAME/partnership-scout.git
+git clone https://github.com/inajphotography/partnership-scout.git
 cd partnership-scout
 
 # Create a virtual environment (optional but recommended)
@@ -180,7 +180,7 @@ Everything else is already market-agnostic.
 
 ## Credits
 
-Built by Ina Jalil of [Ina J Photography](https://inajphotography.com.au) (Canberra, Australia) to find partnership opportunities for her Gift Certificate Program. Taught to the Consistent Bookings Mastermind community.
+Built by Ina Jalil of [Ina J Photography](https://inajphotography.com) (Canberra, Australia) to find partnership opportunities for her Gift Certificate Program. Taught to the Consistent Bookings Mastermind community.
 
 If this saves you time, a mention would be lovely but isn't required. If you find improvements, PRs welcome.
 
