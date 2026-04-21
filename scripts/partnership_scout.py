@@ -789,11 +789,13 @@ I'm {config.PHOTOGRAPHER_FIRST_NAME}, a {config.PHOTOGRAPHER_CITY} pet photograp
 
 I've got an idea that costs you nothing and gives your best clients a genuinely lovely thank-you.
 
-I'd like to gift {config.GIFT_CERT_CLIENTS_PER_PARTNER} of your top clients a {curr}{config.GIFT_CERT_TOTAL_VALUE} photography experience ({curr}{config.GIFT_CERT_SESSION_FEE} session + {curr}{config.GIFT_CERT_PRINT_CREDIT} print credit). The letter is written as a thank-you from {{{{business_name}}}} to mark {{{{milestone_hook}}}}. Your only job is to send me a spreadsheet with their first names and dog names. I do the mail merge, print the letters, stamp the envelopes, and drop them back to you ready to post.
+I'd like to gift {config.GIFT_CERT_CLIENTS_PER_PARTNER} of your top clients a {curr}{config.GIFT_CERT_TOTAL_VALUE} photography experience ({curr}{config.GIFT_CERT_SESSION_FEE} session + {curr}{config.GIFT_CERT_PRINT_CREDIT} print credit). The letter is written as a thank-you from {{{{business_name}}}} to mark {{{{milestone_hook}}}}. I can do all the mail merge, print the letters, and provide the gift certificates ready to send with a stamp, for you to post to your clients. You can either write the names on the envelopes yourself or send me their details and I'll handle everything end-to-end.
 
 Your clients get a beautiful, memorable gift. You get to say thank you without lifting a finger. I get to meet dog parents who'd love what I do. All good for everyone.
 
-In return, you're welcome to use the final images in your own marketing (with the client's consent) and credit me when you do. That way you get gorgeous content of your happy customers and their dogs, and I get introduced to the kind of people I love working with.
+In return, you're welcome to use the final images in your own marketing (with the client's consent). You get gorgeous content of your happy customers and their dogs, and I get introduced to the kind of people I love working with.
+
+And if there's something I can help you with too, whether that's branding photos for your business, wall art for your storefront, or your own pet photography experience, I'd love to sort that out for you as well.
 
 Happy to send through the voucher mockup and letter template so you can see exactly what your clients would receive. No pressure. Just let me know if it's a yes in principle and we can go from there.
 
@@ -825,12 +827,12 @@ To mark the occasion, we've partnered with {config.PHOTOGRAPHER_CITY} pet photog
 
 Here's what's included:
 
-- A full outdoor photography session somewhere that matters to you, your favourite park, your backyard, the beach, wherever {{{{dog_name}}}} is happiest.
-- A {curr}{config.GIFT_CERT_PRINT_CREDIT} print credit toward wall art, albums, or digital files.
-- {photog} works gently at your dog's pace. {photog} is used to dogs who get excited, dogs who need time to warm up, dogs who pull on the lead, dogs who are anxious. Whatever {{{{dog_name}}}}'s personality, {photog} will work with it.
+- A full outdoor photography session somewhere that matters to you. Your favourite park, your backyard, the beach, wherever {{{{dog_name}}}} is happiest.
+- A {curr}{config.GIFT_CERT_PRINT_CREDIT} print credit toward wall art, an album, a collection, or a fine art matted print.
+- {photog} works gently at your dog's pace. {{{{dog_name}}}} doesn't need to be able to sit still. {photog} is used to dogs who get excited, dogs who need time to warm up, dogs who pull on the lead, dogs who are anxious. You can see examples of {photog}'s work with every kind of dog on the website.
 - An in-person ordering appointment at {photog_possessive} {config.PHOTOGRAPHER_CITY} studio where you'll choose your favourite images for your home.
 
-The gift includes your full photography session (valued at {curr}{config.GIFT_CERT_SESSION_FEE}) and a {curr}{config.GIFT_CERT_PRINT_CREDIT} print credit toward your artwork. Options start at {curr}{config.GIFT_CERT_OPTIONS_FROM}. Most clients invest {config.GIFT_CERT_CLIENT_TYPICAL_SPEND}. You only buy the images you love. Any remaining balance goes toward wall art, albums, or master digital files.
+The gift includes your full photography session (valued at {curr}{config.GIFT_CERT_SESSION_FEE}) and a {curr}{config.GIFT_CERT_PRINT_CREDIT} print credit toward your artwork. Most people use the {curr}{config.GIFT_CERT_PRINT_CREDIT} credit towards wall art, an album, or a collection, but you can also put it towards a fine art matted print on its own. Most clients invest {config.GIFT_CERT_CLIENT_TYPICAL_SPEND}. Some spend less, some spend more. You only buy the images you love.
 
 To claim your gift, register directly with {photog} by {{{{register_by_date}}}}. {photog} will guide you through a quick consultation to get to know {{{{dog_name}}}} and plan the session. A small {curr}{config.CONSULTATION_DEPOSIT} deposit is taken at consultation, fully credited to your artwork order at your ordering appointment.
 
